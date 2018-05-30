@@ -1,0 +1,87 @@
+For more Blogger templates, please visit 
+http://www.skinpress.com
+to get more free high quality Blogger templates!
+
+=============================
+
+
+To make this template fully display and function, you are invited to follow the steps below:
+
+1. Sign into your Blogger's dashboard, choose the blog's "layout" .
+2. Under "Layout" tab, choose the "Edit HTML" option.
+3. You might need to backup the template before you upload it, click "Download Full Template" to save the template file into the computer.
+4. You can see the word "Upload a template from a file on your hard drive.", click "browse" and choose the "(template name).xml" file.
+5. Click on "Upload" button to upload the template to your blog.
+6. Enjoy!
+
+
+Set up the Post Date
+====================
+
+Access into ¡®Settings¡¯ and under the ¡®Formatting¡¯ tab, change the ¡®Timestamp Format¡¯ to this format: ¡®Wednesday, September 09, 2009', ¡®Save Settings¡¯ to achieve the post date.
+
+'Save Settings' to complete the post date's settings.
+
+
+Set up the Header RSS Subscription
+==================================
+
+Access into ¡®Layout¡¯ and under the ¡®Edit HTML¡¯ mode, press [CTRL+F3] to find the code below and edit it with corresponding item:
+
+<a href='RSS-LINK-HERE' title='RSS'>
+
+'Save Template' to achieve Header RSS Subscription's settings.
+
+
+Set up the Navigation Menu
+==============================
+
+Access into 'Layout' and under the 'Page Element' section, click on the 'Edit' of the 'Navigation Menu' and configure the Link Gadget setup.
+
+'Save' to achieve the Navigation Menu.
+
+
+Set up the Sidebar 125x125 Ads
+===============================
+
+Access into 'Layout' and under the 'Page Element' section, click on the 'Edit' of the '125x125 Ads1' and configure the Image Gadget setup.
+
+'Save Template' to achieve the 125x125 Ads1.
+
+The method can also be applied to configure 125x125 Ads2, 125x125 Ads3 and 125x125 Ads4.
+
+
+Set up the Social Network section
+=================================
+
+Access into ¡®Layout¡¯ and under the ¡®Edit HTML¡¯ mode, press [CTRL+F3] to find the code below and edit it with corresponding item:
+
+<a href='FACEBOOK-LINK-HERE' title='Facebook'>
+<a href='STUMBLEUPON-LINK-HERE' title='StumbleUpon'>
+<a href='REDDIT-LINK-HERE' title='Reddit'>
+<a href='DIGG-LINK-HERE' title='Digg'>
+<a href='DELICIOUS-LINK-HERE' title='Delicious'>
+<a href='TECHNORATI-LINK-HERE' title='Technorati'>
+
+'Save Template' to achieve the Social Network section.
+
+
+Set up the Twitter Profile section
+=================================
+
+Access into ¡®Layout¡¯ and under the ¡®Edit HTML¡¯ mode, press [CTRL+F3] to find the code below and edit it with corresponding item:
+
+<a class='link' href='TWITTER-ID-HERE'>
+
+'Save Template' to achieve the Social Network section.
+
+
+Set up the Twitter Update gadget
+================================
+
+Access into 'Layout' and under the 'Page Element' mode, Click on the 'Edit' of the 'Twitter Update', paste the code below into the Gadget and edit the corresponding item, 'TWITTER-USERNAME-HERE':
+
+<script src="http://twitter.com/javascripts/blogger.js" type="text/javascript"></script>
+<script src="http://twitter.com/statuses/user_timeline/TWITTER-USERNAME-HERE.json?callback=twitterCallback2&count=1" type="text/javascript"></script>
+
+'Save' to achieve the 'Twitter Update' gadget.
