@@ -1,0 +1,8 @@
+{
+  "name": "NEURONIX // Plataforma Interactiva de IA, ML y Data Science",
+  "description": "Plataforma educativa interactiva con estética Cyberpunk Matrix para explorar Inteligencia Artificial, Machine Learning, Ciencia de Datos, Redes Neuronales y Ciberseguridad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
